@@ -1,0 +1,43 @@
+body {
+background-color: Silver;
+}
+h1 {
+color: navy;
+}
+p{
+	text-align:center;
+}
+.dashed{
+	border-width: 5px;
+	border-color: green;
+	border-style: dashed;
+	width: 215px;
+	height: 215px;
+}
+
+.title{
+    font-size: 17;
+    text-transform: uppercase;
+	
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+ 
+}
+
+
+
+.div {
+    border: 1px solid black;
+    margin-right: 0px;
+    margin-left: 250px;
+    background-color: lightblue;
+}
+
+.avatar{
+	vertical-align: top;
+
+}
