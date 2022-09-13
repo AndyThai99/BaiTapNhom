@@ -45,7 +45,7 @@
 				transition: width 500ms ease-in-out;
 			}
 .intro{
-  background-color: #bde9ea;
+  background-color: #eae6df;
     border: 3px solid black;
     border-radius: 20px 0px 20px 0px;
     margin: 5px;
@@ -77,5 +77,9 @@
 .grid-item{
   padding: 10px;
   font-size: 20;
+}
+.break-line{
+  height: 100%;
+  border-bottom: 5px solid #c2ccc5;
 }
 
